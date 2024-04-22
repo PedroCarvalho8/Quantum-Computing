@@ -1,4 +1,6 @@
 <div class="elfjS" data-track-load="description_content"><p>Given an <code>array</code> containing <code>0s</code> and <code>1s</code>, return whether the number of subsets formed by the 1s is <code>even</code> or <code>odd</code>, with 0 being even and 1 being odd.</p>
+<div class="elfjS" data-track-load="description_content"><p>This problem must be solved using a quantum circuit, through the <code>qiskit</code> library.</p>
+
 
 <p><strong class="example">Example 1:</strong></p>
 
