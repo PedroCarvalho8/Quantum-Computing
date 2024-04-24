@@ -1,5 +1,4 @@
 # Iniciações de bibliotecas.
-
 from qiskit import QuantumCircuit, transpile, QuantumRegister, ClassicalRegister
 from qiskit.visualization import *
 from ibm_quantum_widgets import *
