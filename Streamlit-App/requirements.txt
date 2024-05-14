@@ -3,5 +3,4 @@ pandas
 numpy
 qiskit
 qiskit_aer
-cmath
 st-pages
