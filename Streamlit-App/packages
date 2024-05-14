@@ -1,5 +1,5 @@
 numpy
 pandas
 qiskit
-qiskit-aer
-st-pages
+qiskit_aer
+st_pages
