@@ -93,5 +93,5 @@ def printar():
         else:
             lista.append(":rock:")
     return ''.join(lista)
-st.markdown(f"A quantidade de conjustos de árvores é **{int(resultado)==0 and "Par" or "Ímpar"}**")
+st.markdown(f"A quantidade de conjuntos de árvores é **{int(resultado)==0 and "Par" or "Ímpar"}**")
 st.markdown(f"Representação do problema: {printar()}")
