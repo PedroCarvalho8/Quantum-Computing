@@ -4,3 +4,4 @@ numpy
 qiskit
 qiskit_aer
 st-pages
+streamlit-javascript
