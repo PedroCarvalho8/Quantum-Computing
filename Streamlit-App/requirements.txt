@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+qiskit
+qiskit_aer
+st-aggrid
+cmath
+st-pages
