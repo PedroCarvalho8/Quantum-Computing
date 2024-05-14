@@ -6,8 +6,6 @@ from qiskit import QuantumCircuit
 from qiskit.quantum_info import Statevector
 from qiskit_aer import AerSimulator
 from quantica import mz_interferometer, print_matrix, beam_splitter
-from st_aggrid import AgGrid
-import time
 from sidebar import sidebar
 
 
