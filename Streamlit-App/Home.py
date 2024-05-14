@@ -1,19 +1,8 @@
 import streamlit as st
 import numpy as np
-from st_pages import Page, show_pages, add_page_title
 from sidebar import sidebar
 
 sidebar()
-
-# show_pages(
-#     [
-#         Page("Home.py", "Home", ""),
-#         Page("pages/1-Eight_Trees_Problem.py", "Eight Trees Problem", ":deciduous_tree:"),
-#         Page("pages/2-New_Mach.py", "New Mach", ":bar_chart:"),
-#         Page("pages/3-Superdense_Coding.py", "Superdende Coding", ":speech_balloon:")
-#     ]
-# )
-
 
 # st.set_page_config(page_icon=":smile:")
 
