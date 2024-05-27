@@ -75,14 +75,15 @@ def emaranhar(qubits):
 
 def sua_parte(qc, bin):
     match bin:
-    #   case [0, 0]:
-    #       Nenhuma operacao
+       case [0, 0]:
+            qc.id(0)
         case [0, 1]:
-            qc.rz(math.pi, 0)
+            qc.z(0)
         case [1, 0]:
-            qc.rx(math.pi, 0)
+            qc.x(0)
         case [1, 1]:
-            qc.ry(math.pi, 0)
+            qc.x(0)
+            qc.z(0)
     
     qc.barrier()
 
