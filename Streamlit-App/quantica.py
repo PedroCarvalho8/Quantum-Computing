@@ -75,7 +75,7 @@ def emaranhar(qubits):
 
 def sua_parte(qc, bin):
     match bin:
-       case [0, 0]:
+        case [0, 0]:
             qc.id(0)
         case [0, 1]:
             qc.z(0)
